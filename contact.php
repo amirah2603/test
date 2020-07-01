@@ -1,4 +1,4 @@
-<?php include ('config/config.php')?>
+<?php include ('config.php')?>
 <html>
 <head>
   <title>Heroku Test</title>
