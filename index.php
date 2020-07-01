@@ -1,5 +1,5 @@
-<?php include ('config/db.php')?>
-<?php include ('config/config.php')?>
+<?php include ('db.php')?>
+<?php include ('config.php')?>
 
 <html>
 <head>
